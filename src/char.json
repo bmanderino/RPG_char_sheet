@@ -1,0 +1,47 @@
+{"character": {
+    "characterDetails": {
+      "name": "",
+      "height": "",
+      "weight": "",
+      "age": "",
+      "gender": "",
+      "nationality": "",
+      "class":""
+    },
+    "details": {
+
+    },
+    "abilities": {
+      "strength": 0,
+      "dexterity":0,
+      "constitution": 0,
+      "intelligence":0,
+      "wisdom": 0,
+      "charisma":0
+    },
+    "proficiency_bonus": 0,
+    "weapons": [],
+    "proficiencies": []
+  },
+  "skills" :[
+    {"skill": "Academician", "stat":	"INT", "cost":	1},
+    {"skill": "Agriculture", "stat":	"WIS", "cost":	1},
+    {"skill": "Alchemy", "stat":	"INT", "cost":	1},
+    {"skill": "Animal Husbandry", "stat":	"WIS", "cost":	1},
+    {"skill": "Appraising", "stat":	"INT", "cost":	1},
+    {"skill": "Archeology", "stat":	"INT", "cost":	1},
+    {"skill": "Artillery", "stat":	"INT", "cost":	1},
+    {"skill": "Artisan", "stat":	"CHA", "cost":	1},
+    {"skill": "Astronomy", "stat":	"INT", "cost":	1},
+    {"skill": "Athletics", "stat":	"STR", "cost":	1},
+    {"skill": "Blind Sense", "stat":	"WIS", "cost":	1},
+    {"skill": "Biology", "stat":	"INT", "cost":	1},
+    {"skill": "Botany", "stat":	"INT", "cost":	1},
+    {"skill": "Brewing", "stat":	"INT", "cost":	1},
+    {"skill": "Carpentry", "stat":	"INT", "cost":	1},
+    {"skill": "Chemistry", "stat":	"INT", "cost":	1},
+    {"skill": "Climb Walls", "stat":	"DEX", "cost":	1},
+    {"skill": "Clockwork", "stat":	"INT", "cost":	1},
+    {"skill": "Cobbling", "stat":	"INT", "cost":	1},
+  ]
+}
